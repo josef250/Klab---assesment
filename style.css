@@ -1,0 +1,22 @@
+.leftside , .rightside {
+    height: 100vh;
+    width: 100%;
+    
+}
+
+.leftside{
+    background:#4c6fff;
+}
+
+.rightside{
+    background:#e4ebf5;
+}
+
+#signup{
+    background:#f7fafc;
+    border: 1px solid;
+}
+body{
+    font-family: century Gothic;
+    font-size: 14px;
+}
